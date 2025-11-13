@@ -170,6 +170,7 @@
         0
         (exact->inexact (/ suma cantidad)))))
 
+        
 ; Prueba del Ejercicio 12
 (define datos-ej12 '(3 8 10 4 9 2 7))
 (display "Ejercicio 12 -> Promedio de números mayores a 5: ")
